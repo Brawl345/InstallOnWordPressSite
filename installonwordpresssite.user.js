@@ -10,6 +10,9 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
+
+// @downloadURL  https://raw.githubusercontent.com/Brawl345/InstallOnWordPressSite/master/installonwordpresssite.user.js
+// @updateURL  https://raw.githubusercontent.com/Brawl345/InstallOnWordPressSite/master/installonwordpresssite.user.js
 // ==/UserScript==
 
 // Initialize GM_config
