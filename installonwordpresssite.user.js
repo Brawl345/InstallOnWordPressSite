@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Install on WordPress site
 // @namespace    https://wiidatabase.de
-// @version      1.0
+// @version      1.0.1
 // @description  Adds a button to WordPress Plugins site where you can install a plugin on your site
 // @author       Brawl345
 
-// @match        https://wordpress.org/plugins/*
+// @match        https://*.wordpress.org/plugins/*
 // @require      https://openuserjs.org/src/libs/sizzle/GM_config.js
 // @grant        GM_getValue
 // @grant        GM_setValue
